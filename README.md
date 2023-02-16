@@ -23,14 +23,14 @@
 </div>
 </div>
 
-### 👀 Preview
-<img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
-
----
 ### 🌟 Try it yourself!
 [**Live Demo :: Link**](https://incubated-geek-cc.github.io/OfflinePDFViewer)
 
+### 👀 Preview
+<img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
+
+<p>— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b></p>
+
+---
+
 #### 🌮 Please buy me a <a href='https://www.buymeacoffee.com/geekcc' target='_blank'>Taco</a>! 😋
-
-— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b>
-
