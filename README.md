@@ -4,15 +4,16 @@
   # OfflinePDFViewer
 
 **Minimalistic PDF reader. An offline in-browser setup.**
-### 📌 Features
+
 <div align="left">	
-	<ol>
+  ### 📌 Features
+	<ul>
 		<li>PDF page display</li>
 		<li>Zoom in/out</li>
-		<li>Zoom to fit width/fit page/actual size</li></ol>
+		<li>Zoom to fit width/fit page/actual size</li>
 		<li>Pagination</li>
 		<li>Page download</li>
-	</ol>
+	</ul>
 </div>
 </div>
 
