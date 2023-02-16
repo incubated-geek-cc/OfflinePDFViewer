@@ -30,6 +30,7 @@
 ### 🌟 Try it yourself!
 [**Live Demo :: Link**](https://incubated-geek-cc.github.io/OfflinePDFViewer)
 
-— <b>Feel free to join me on 📝 <a href='https://medium.com/@geek-cc' target='_blank'>Medium</a></b> ~ ξ(🎀˶❛◡❛) 
+#### 🌮 Please buy me a <a href='https://www.buymeacoffee.com/geekcc' target='_blank'>Taco</a>! 😋
 
-<p>🌮 Please buy me a <a href='https://www.buymeacoffee.com/geekcc' target='_blank'>Taco</a>! - 😋</p>
+— <b>Join me on 📝 <b>Medium</b> at <a href='https://medium.com/@geek-cc' target='_blank'>~ ξ(🎀˶❛◡❛) @geek-cc</a></b>
+
