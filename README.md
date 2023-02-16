@@ -5,8 +5,10 @@
 
 **Minimalistic PDF reader. An offline in-browser setup.**
 
-<div align="left">	
-  	**📌 Features**
+<div align="left">
+  ### 📌 Features
+</div>
+<div align="left">
 	<ul>
 		<li>PDF page display</li>
 		<li>Zoom in/out</li>
@@ -17,9 +19,9 @@
 </div>
 </div>
 
-## 🛠️ Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>
+### 🛠️ Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>
 
-## Preview
+### Preview
 <img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
 
 ---
