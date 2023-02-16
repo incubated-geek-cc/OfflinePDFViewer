@@ -1,12 +1,14 @@
 <div align="center">
 	<img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/logo.png' width='96' height='96' alt='logo' />
 
-	# OfflinePDFViewer <small>Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a></small>
+	# OfflinePDFViewer
 
-	## Preview
-	<img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
-
+	**Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>**
 </div>
+
+## Preview
+
+<img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
 
 <div align="left">
 	**Minimalistic PDF reader. An offline in-browser setup.**
@@ -20,7 +22,7 @@
 		<li>Pagination</li>
 		<li>Page download</li>
 	</ul>
-	
+
 </div>
 
 ---
