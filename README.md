@@ -6,7 +6,9 @@
 **Minimalistic PDF reader. An offline in-browser setup.**
 
 <div align="left">
+
   ### 📌 Features
+  
 </div>
 <div align="left">
 	<ul>
