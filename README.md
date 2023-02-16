@@ -3,12 +3,12 @@
 
   # 🔎 OfflinePDFViewer
 
-**Minimalistic PDF reader. An offline in-browser setup.**
+**Minimalistic 📖 PDF reader. An offline in-browser setup.**
 
 <div align="left">
 
   ### 📌 Features
-  
+
 </div>
 <div align="left">
 	<ul>
@@ -23,13 +23,13 @@
 
 ### 🛠️ Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>
 
-### Preview
+### 👀 Preview
 <img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
 
 ---
-### Try it yourself!
+### 🌟 Try it yourself!
 [**Live Demo :: Link**](https://incubated-geek-cc.github.io/OfflinePDFViewer)
 
-— 🌮 Please buy me a <a href='https://www.buymeacoffee.com/geekcc' target='_blank'>Taco</a>! - 😋
+— <b>Feel free to join me on 📝 <a href='https://medium.com/@geek-cc' target='_blank'>Medium</a></b> ~ ξ(🎀˶❛◡❛) 
 
-<p>Feel free to join me on 📝 Medium ~ ξ(🎀˶❛◡❛) <a href='https://medium.com/@geek-cc' target='_blank'>@geek-cc</a></p>
+<p>🌮 Please buy me a <a href='https://www.buymeacoffee.com/geekcc' target='_blank'>Taco</a>! - 😋</p>
