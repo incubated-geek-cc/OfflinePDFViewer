@@ -1,25 +1,23 @@
 <div align="center">
-	<img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/logo.png' width='96' height='96' alt='logo' />
+  <img src="https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/logo.png" width="96" alt="logo">
 
-	<h1>OfflinePDFViewer</h1>
-	<b>Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a></b>
+  # OfflinePDFViewer
+
+**Minimalistic PDF reader. An offline in-browser setup.**
+### 📌 Features
+<div align="left">	
+	- PDF page display
+	- Zoom in/out
+	- Zoom to fit width/fit page/actual size
+	- Pagination
+	- Page download
+
+	Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>
+</div>
 </div>
 
 ## Preview
 <img src='https://github.com/incubated-geek-cc/OfflinePDFViewer/raw/main/img/preview.png' width="800px" />
-
-### 📌 Features
-<div align="left">
-	<b>Minimalistic PDF reader. An offline in-browser setup.</b>
-	<ul>
-		<li>PDF page display</li>
-		<li>Zoom in/out</li>
-		<li>Zoom to fit width/fit page/actual size</li>
-		<li>Pagination</li>
-		<li>Page download</li>
-	</ul>
-
-</div>
 
 ---
 ### Try it yourself!
