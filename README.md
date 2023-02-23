@@ -3,9 +3,9 @@
 
   # 🔎 OfflinePDFViewer
 
-  ### 🛠️ Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>
+  ### 🛠️ Built with <a href='https://mozilla.github.io/pdf.js/' target='_blank'>PDF.js</a>. Minimalistic 📖 PDF reader. An offline in-browser setup.
 
-**Minimalistic 📖 PDF reader. An offline in-browser setup.**
+**Best viewed on 💻 Laptop screens. Non-mobile responsive 📱🚫.**
 
 <div align="left">
 
